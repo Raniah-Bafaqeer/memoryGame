@@ -16,6 +16,9 @@ All content is responsive and display on Google Chrome, Fire Fox and all display
 
 This game built using HTML5, CSS3, JavaScript and Bootstrap library.
 
+## Play the game 
+click on the link: [https://raniah-bafaqeer.github.io/memoryGame/]
+
 ## Game Main Functionality
 The main function which starts with window.onload is called :  `start()` 
 Display the cards on the page  
